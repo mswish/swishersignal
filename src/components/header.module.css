@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.header a {
+    text-decoration: none;
+    font-size: 2em;
+    color: #b53333;
+    padding: 5px 5px;
+}
+
+.header a:hover {
+    text-decoration: underline black;
+}
